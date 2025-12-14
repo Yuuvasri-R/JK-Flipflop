@@ -75,6 +75,11 @@ Thus the JK flipflop is implemented and verified.
 
 
 
+....
+
+
+
+.....
 
 
 
@@ -83,8 +88,7 @@ Thus the JK flipflop is implemented and verified.
 
 
 
-
-.....
+....
 
 
 
